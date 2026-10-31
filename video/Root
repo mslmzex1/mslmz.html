@@ -1,0 +1,5 @@
+// `npx remotion render Root TechnicalVideo …` komutunun giriş noktası (src/index.ts ile aynı).
+import {registerRoot} from 'remotion';
+import {RemotionRoot} from './src/Root';
+
+registerRoot(RemotionRoot);

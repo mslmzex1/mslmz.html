@@ -1,0 +1,7 @@
+[
+ {"id":"giris","title":"Giriş","text":"100 milimetre çaplı bir hidrolik silindir, 160 bar basınçta kaç ton kuvvet üretir? Hesabı adım adım yapalım."},
+ {"id":"alan","title":"Alan Hesabı","text":"Önce piston alanını bulalım. Alan, pi çarpı çap karesi bölü dört. 10 santimetre çap için alan, yaklaşık 78 virgül 5 santimetrekare eder."},
+ {"id":"kuvvet","title":"Kuvvet ve Tonaj","text":"Kuvvet, basınç çarpı alandır. 160 bar, yani 16 megapaskal, 78 virgül 5 santimetrekare ile çarpılınca yaklaşık 125 bin 700 newton çıkar. Bu da yaklaşık 12 virgül 8 ton itme kuvveti demektir."},
+ {"id":"cekme","title":"İtme / Çekme Farkı","text":"Çekme yönünde yağ, mil tarafındaki halka alana etki eder. 56 milimetre mil çapıyla halka alan 53 virgül 9 santimetrekareye düşer. Böylece çekme kuvveti yaklaşık 8 virgül 8 ton olur."},
+ {"id":"ozet","title":"Özet","text":"Özetle, 100 milimetre silindir, 160 barda yaklaşık 12 virgül 8 ton iter, 8 virgül 8 ton çeker. Pratikte sürtünme ve verim kayıpları için yüzde 10 pay bırakın."}
+]

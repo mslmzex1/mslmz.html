@@ -1,0 +1,5 @@
+node_modules
+out
+tts/*.wav
+tts/*.mp3
+tts/list.txt
